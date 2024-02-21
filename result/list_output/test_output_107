@@ -1,0 +1,9 @@
+----- Mission 1 -----
+EXP1: 424, EXP2: 558, E1: 48
+EXP1: 424, EXP2: 558, result: 982
+----- Mission 2 -----
+HP1: 413, EXP1: 424, M1: 1204, E2: 50
+HP1: 413, EXP1: 424, M1: 1204, result: 2041
+----- Mission 3 -----
+HP1: 413, EXP1: 424, HP2: 130, EXP2: 558, E3: 97
+HP1: 413, EXP1: 424, HP2: 130, EXP2: 558, result: -1
